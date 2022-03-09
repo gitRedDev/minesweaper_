@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+.grid{
+    margin-left: auto;
+    margin-right: auto;
+}
+.cell{
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    background-color: rgb(228, 228, 228);
+}
